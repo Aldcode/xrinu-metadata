@@ -1,0 +1,11 @@
+[[ACCOUNTS]]
+address = "rYourTokenIssuerAddress"  # Replace with your actual issuer account address
+
+# Optional metadata
+website = "https://yourshopifywebsite.com"
+logo = "https://gateway.pinata.cloud/ipfs/QmYourImageHash"
+
+[CURRENCIES]
+code = "XRINU"
+issuer = "rYourTokenIssuerAddress"
+description = "XRINU is a fast, low-cost utility token on the XRP Ledger."
