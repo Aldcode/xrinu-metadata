@@ -1,7 +1,7 @@
 [[ACCOUNTS]]
-address = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"  # Replace with your actual issuer account address
+address = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"  
 
-# Optional metadata
+
 website = "https://www.xrinu.org/"
 logo = "https://gateway.pinata.cloud/ipfs/QmYourImageHash"
 
