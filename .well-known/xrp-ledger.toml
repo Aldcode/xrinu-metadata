@@ -1,9 +1,20 @@
-[[ACCOUNTS]]
-address = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"  
-website = "https://www.xrinu.org/"
-logo = "https://xrinu.org/assets/UltimateLlamaLogo2025.png"
-
 [[CURRENCIES]]
-code = "XRINU"
+code = "XRI"
 issuer = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"
+display_name = "XRINU"
 description = "XRINU is a fast, low-cost utility token on the XRP Ledger."
+
+
+[[LINKS]]
+title = "NFT Collection"
+href = "https://xrp.cafe/nft/000807D06E4FA43DBCE548223D59BEF5515529E2B0702A914ADEE9C50406CBD6"
+
+
+
+
+
+
+
+
+
+
