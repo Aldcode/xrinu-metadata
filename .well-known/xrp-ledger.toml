@@ -1,12 +1,9 @@
 [[ACCOUNTS]]
 address = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"  
-
-
 website = "https://www.xrinu.org/"
-logo = "logo = "https://raw.githubusercontent.com/Aldcode/xrinu-metadata/main/assets/UltimateLlamaLogo2025.png"
+logo = "https://xrinu.org/assets/UltimateLlamaLogo2025.png"
 
-
-[CURRENCIES]
+[[CURRENCIES]]
 code = "XRINU"
 issuer = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"
 description = "XRINU is a fast, low-cost utility token on the XRP Ledger."
