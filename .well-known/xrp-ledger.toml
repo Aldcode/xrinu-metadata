@@ -3,7 +3,7 @@ address = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"
 
 
 website = "https://www.xrinu.org/"
-logo = ""https://raw.githubusercontent.com/Aldcode/xrinu-metadata/main/assets/your_logo.png""
+logo = "https://raw.githubusercontent.com/Aldcode/xrinu-metadata/main/assets/your_logo.png"
 
 [CURRENCIES]
 code = "XRINU"
